@@ -1,0 +1,14 @@
+20
+10
+MMMMMMMMMMMMMMMMMMMM
+M_____B___T___B____M
+M___MMMM___MMMM____M
+M_____B___M_____T__M
+M__S__T_PPP___M____M
+M__V__M___M___M____M
+M_G___B___M___M____M
+M_GGG_T___M___H_K__M
+M_____MMMMMMMMM____M
+MMMMMMMMMMMMMMMMMMMM
+
+
